@@ -1,5 +1,5 @@
 # 2.3_Assignment_Wajhiha
-# Organizational report
+# Organizational Strategy report
 
 *** strategy to organisational opportunities and threats resulting from the emerging technologies and practices**
 
@@ -34,7 +34,7 @@
 
 1. The objective is to change the old way of doing work in agriculture when its a smarter ways of doing the work in the industry and in the organizations too.
 
-2. The objective is to provide 
+2. The objective is to provide the zoom classess for the farmers which takes 10-12 weeks
 
 3. To give the better understanding of these emerging  technologies to the farmers which is necessary for them to learn and how to use them.
 
